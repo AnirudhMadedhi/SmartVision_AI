@@ -1,0 +1,4 @@
+classes: 25
+img_size_classification: 224
+img_size_detection: 640
+confidence_threshold: 0.5
