@@ -8,7 +8,7 @@ data/smartvision_dataset/
 # -----------------------------
 # Model weights
 # -----------------------------
-models/*.pth
+# models/*.pth
 notebooks/
 
 # -----------------------------
