@@ -1,0 +1,30 @@
+# src/models/class_labels.py
+
+CLASS_NAMES = [
+    'airplane',
+    'bed',
+    'bench',
+    'bicycle',
+    'bird',
+    'bottle',
+    'bowl',
+    'bus',
+    'cake',
+    'car',
+    'cat',
+    'chair',
+    'couch',
+    'cow',
+    'cup',
+    'dog',
+    'elephant',
+    'horse',
+    'motorcycle',
+    'person',
+    'pizza',
+    'potted plant',
+    'stop sign',
+    'traffic light',
+    'train',
+    'truck'
+]

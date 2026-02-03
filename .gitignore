@@ -9,6 +9,7 @@ data/smartvision_dataset/
 # Model weights
 # -----------------------------
 models/*.pth
+notebooks/
 
 # -----------------------------
 # Python
